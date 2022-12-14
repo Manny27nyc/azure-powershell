@@ -36,7 +36,7 @@ For more information on Az Predictor, please visit the following: https://aka.ms
 
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights" Version="2.17.0" />
-    <PackageReference Include="Microsoft.PowerShell.SDK" Version="7.2.0-preview.6" />
+    <PackageReference Include="Microsoft.PowerShell.SDK" Version="7.2.8" />
     <PackageReference Include="System.Management.Automation" Version="7.2.0-preview.6" />
   </ItemGroup>
 
